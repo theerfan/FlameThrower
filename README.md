@@ -1,2 +1,2 @@
-# flamestarter
+# FlameThrower
 My PyTorch playground.
