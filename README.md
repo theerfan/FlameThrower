@@ -4,5 +4,4 @@ My PyTorch playground.
 
 ## TODO:
 
-Yannic Kilcher's [Group Normalization](https://www.youtube.com/watch?v=l_3zj6HeWUE) video.
-
+Yanni Kilcher's video on [Weight Standardization](https://www.youtube.com/watch?v=p-zOeQCoG9c).
